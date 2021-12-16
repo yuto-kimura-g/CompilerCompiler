@@ -4,8 +4,6 @@
 
 using `bison/flex`
 
-<br>
-
 ## Usage
 
 ```shell
@@ -20,4 +18,9 @@ $ gcc lex.yy.c comp1.tab.c -w
 $ ./a.out
 # if you want to quit, press Ctrl+C
 ```
+
+## Requirements
+
+- An environment that can use linux commands (ex:WSL2)
+- Knowledge of the compiler
 
