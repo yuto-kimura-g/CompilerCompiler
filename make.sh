@@ -1,6 +1,5 @@
 #! /bin/bash
 
-
 echo "\n> compiler compiler\n"
 rm *.out *.exe *.c *.h
 
